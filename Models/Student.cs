@@ -23,6 +23,7 @@ namespace Exemplu_MVC.Models
             students.Add(new Student { Id = 3, Name = "Mihai", Age=21 });
             students.Add(new Student { Id = 3, Name = "Andrei", Age=25 });
             students.Add(new Student { Id = 3, Name = "Maria", Age=27 });
+
         }
         public StudentData()
         { }
